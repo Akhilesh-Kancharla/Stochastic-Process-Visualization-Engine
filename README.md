@@ -4,6 +4,8 @@ The Stochastic Process Visualization Engine is a Python application designed for
 
 The application features two modes: a rich graphical user interface (GUI) for interactive exploration and a command-line interface (CLI) for headless analysis and scripting.
 
+<img width="943" height="610" alt="image" src="https://github.com/user-attachments/assets/2e9f9f84-552a-46cb-be8c-d46daa4a02a8" />
+
 ```bash
 Stochastic-Process-Visualization-Engine (main) $ python main.py --cli
 Running in Command-Line Interface (CLI) mode.
