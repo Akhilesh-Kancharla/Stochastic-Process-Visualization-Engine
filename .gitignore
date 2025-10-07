@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# IDE & Editor configuration
+.vscode/
+.idea/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Application-specific output
+# Ignore the JSON files generated when saving inference results.
+inference_result_*.json
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
