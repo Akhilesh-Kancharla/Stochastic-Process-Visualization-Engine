@@ -93,13 +93,11 @@ Available bias patterns:
 ## Requirements
 
 - Python 3.8+
-- NumPy
-- SciPy
-- Matplotlib
+- Dependencies are listed in `requirements.txt`.
 
 Install the required libraries using pip:
 ```bash
-pip install numpy scipy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Usage
